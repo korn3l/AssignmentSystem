@@ -2,7 +2,7 @@
 
 A desktop application for managing teachers, courses, and their assignments in an educational institution. Built with a Python Tkinter GUI and a MySQL database backend.
 
-## 📸 Application Showcase
+## Application Showcase
 
 Here's a look at the system in action.
 
