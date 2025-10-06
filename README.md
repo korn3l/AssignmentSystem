@@ -8,7 +8,7 @@ Here's a look at the system in action.
 
 | Main Dashboard               | Adding a New Teacher                | Adding a New Course            | Assigning a Course to a Teacher    |
 |------------------------------|-------------------------------------|--------------------------------|------------------------------------|
-| *[IMAGE: Main Dashboard]*    | *[GIF: Adding new teacher]*         | *[GIF: Adding New Course]*     | *[GIF: Assigning a Course]*        |
+| ![](https://github.com/korn3l/AssignmentSystem/blob/main/assets/assignment-demo.gif)    | *[GIF: Adding new teacher]*         | *[GIF: Adding New Course]*     | *[GIF: Assigning a Course]*        |
 | **(./assets/dashboard.png)** | **(./assets/add-teacher-demo.gif)** | **(./assets/course-demo.gif)** | **(./assets/assignment-demo.gif)** |
 
 
